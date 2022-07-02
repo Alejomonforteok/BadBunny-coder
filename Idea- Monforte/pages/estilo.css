@@ -1,0 +1,97 @@
+*{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 24px;
+    text-align: center;
+}
+
+a{
+text-decoration: none;
+}
+
+body{
+    background-color: #ded6ed;
+}
+
+.tours, table{
+    width: 100%;
+}
+
+button, input{
+color: black;
+}
+
+.linea{
+background-color: black;
+height: 5px;
+}
+
+.tabla{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.toursimagen{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+li{
+    list-style-type: none;
+    padding-top:10px ;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.biografia_img, .img-album, .img-index, .img-tienda, .exitos{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.date{
+    color:#fa3232;
+}
+
+.playlist, .direccion-album {
+    color: #eba834;
+}
+
+.contenedor_padre{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+}
+
+.sorteo{
+    padding-bottom: 20px;
+}
+
+.nav-box{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.nav{
+    position: sticky;
+    top:0px;
+    background-color: #ded6ed;
+}
+
+.biografia{
+display: grid;
+
+}
+
+.redes-sociales-logo{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.logo-facebook, .logo-twitter, .logo-spotify, .logo-instagram, .logo-youtube{
+    width: 1cm;
+    height: 1cm;
+}
+
