@@ -58,10 +58,6 @@
         color:#fa3232;
     }
 
-    .playlist, .direccion-album {
-        color: #eba834;
-    }
-
     .contenedor_padre{
         display: flex;
         flex-direction: row;
@@ -85,9 +81,9 @@
         padding-bottom: 20px;
     }
 
-    .iconify path:hover{
+    .iconify path:hover, a:hover{
         color:#eba834 ;
-        transition: all 0.5s;
+        transition: all 0.2s;
     }
 
     .video{
