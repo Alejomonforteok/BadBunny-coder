@@ -22,9 +22,11 @@
         padding-bottom: 1rem;
     }
 
-    .card{
-        background-color: #ded6ed;
+    .main-discografia{
+        padding-top: 1rem;
+        padding-bottom: 1rem;
     }
+
 
     .container-fluid{
         max-width: 950px;
