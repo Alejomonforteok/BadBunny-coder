@@ -93,6 +93,11 @@ li{
     transition: all 0.2s;
 }
 
+.video{
+    max-width: 560px;
+    max-height: 315px;
+}
+
 
 /* Fin del DISEÑO */
 
